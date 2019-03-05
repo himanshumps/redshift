@@ -1,0 +1,5 @@
+APP_NAME: rh-openshift-dev-proj
+MS_NAME: redshift
+BRANCH: master
+GIT_SOURCE_URL: https://github.com/himanshumps/redshift.git
+SONAR_HOST_URL: http://sonar-rh-openshift-dev-proj-cicd.52.172.12.252.nip.io
